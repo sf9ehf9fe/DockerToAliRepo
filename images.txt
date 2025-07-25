@@ -1,1 +1,1 @@
-docker.1ms.run/funasr_repo/funasr:funasr-runtime-sdk-gpu-0.2.1
+funasr:funasr-runtime-sdk-gpu-0.2.1
