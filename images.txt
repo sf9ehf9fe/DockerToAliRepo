@@ -1,2 +1,1 @@
-ghcr.io/open-webui/open-webui:main
-redis
+docker.1ms.run/funasr_repo/funasr:funasr-runtime-sdk-gpu-0.2.1
